@@ -1,3 +1,4 @@
+package Pattern_Printing;
 /* print the pattern
 *
 * *
