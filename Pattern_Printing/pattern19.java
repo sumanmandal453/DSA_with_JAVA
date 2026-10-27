@@ -8,6 +8,7 @@ output:
 7 8 9 10
 
 */ 
+
 import java.util.*;
 public class pattern19 {
     public static void main(String[] args){
