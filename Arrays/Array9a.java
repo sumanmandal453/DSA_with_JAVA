@@ -11,6 +11,13 @@ public class Array9a {
         System.out.println(Deep[2]);
         System.out.println(arr[2]);
 
+        // or in another way to deep copy
+        int[] brr = new int[arr.length];
+        for(int i = 1; i<arr.length; i++){
+            brr[i] = arr[i];
+        }
+        System.out.println(brr[2]);
+
 
 
     }
