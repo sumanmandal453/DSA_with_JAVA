@@ -33,4 +33,3 @@ public class Array12 {
     }
 }
 
-
